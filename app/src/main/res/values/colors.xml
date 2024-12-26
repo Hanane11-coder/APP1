@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color> <!-- Couleur principale -->
+    <color name="colorPrimaryDark">#3700B3</color> <!-- Couleur sombre -->
+    <color name="colorAccent">#03DAC5</color> <!-- Couleur d'accent -->
+    <color name="colorBackground">#FFFFFF</color> <!-- Fond blanc -->
+</resources>
